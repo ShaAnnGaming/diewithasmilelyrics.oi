@@ -17,7 +17,7 @@ p    {color: red;}
 a    {color:white;}
   
   </style>
-  <img src="pictures/Two.jpg" width="250px;" height="200px;"
+  <img src="Two.jpg" width="250px;" height="200px;"
     style="float:right;">
   <h1 style="text-indent:0.5cm;">
     DIE WITH THE SMILE (lyrics)
